@@ -1,4 +1,4 @@
-# Olá, me chamo Douglas da Costa
+# Olá, me nome é Douglas da Costa
 
 :mortar_board: Atualmente estou estudando logica de programação todas as ferramentas que GitHub oferece para ter ótimo perfil de programador.
 
