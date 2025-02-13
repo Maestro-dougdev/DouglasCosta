@@ -1,8 +1,11 @@
 # Olá, me chamo Douglas da Costa
 
 :mortar_board: Atualmente estou estudando logica de programação todas as ferramentas que GitHub oferece para ter ótimo perfil de programador.
+
 :curly_loop: Trabalhei anteriormente como comercial da Interparce Tecnologia e Controle, estou em processo de migração para area de programação.
+
 :round_pushpin: Atualmente estou morando em Blumenau / Santa Catarina.
+
 :mag_right: Procuro oportunidade de estágio na área de programação.
 
 ## Estou aprendendo
